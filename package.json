@@ -27,6 +27,7 @@
     "chalk": "^1.0.0",
     "commander": "^2.8.1",
     "connect": "^3.3.5",
+    "cross-spawn": "^0.4.0",
     "formidable": "^1.0.17",
     "mkdirp": "^0.5.1",
     "ncp": "^2.0.0",
