@@ -23,11 +23,15 @@
   },
   "homepage": "https://github.com/zkochan/ung",
   "dependencies": {
+    "async": "^1.2.1",
+    "chalk": "^1.0.0",
     "commander": "^2.8.1",
     "connect": "^3.3.5",
     "formidable": "^1.0.17",
     "mkdirp": "^0.5.1",
+    "ncp": "^2.0.0",
     "request": "^2.57.0",
+    "rimraf": "^2.4.0",
     "serve-static": "^1.9.3",
     "tar.gz": "^0.1.1",
     "update-notifier": "^0.5.0"
