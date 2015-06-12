@@ -1,7 +1,7 @@
 {
   "name": "ung",
   "version": "0.0.0",
-  "description": "Static server",
+  "description": "A static resources manager.",
   "main": "./lib/cli",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
