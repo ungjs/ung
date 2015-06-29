@@ -4,7 +4,7 @@
   "description": "A static resources manager.",
   "main": "./lib/cli",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test/**/*.js"
   },
   "bin": {
     "ung": "./lib/cli.js"
@@ -39,5 +39,12 @@
   },
   "publishConfig": {
     "registry": "http://registry.npmjs.org"
+  },
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "lodash": "^3.9.3",
+    "mocha": "*",
+    "mockery": "^1.4.0",
+    "normalize-path": "^1.0.0"
   }
 }
