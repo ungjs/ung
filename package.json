@@ -1,6 +1,6 @@
 {
   "name": "ung",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A static resources manager.",
   "main": "./lib/cli",
   "scripts": {
@@ -29,11 +29,14 @@
     "connect": "^3.3.5",
     "cross-spawn": "^0.4.0",
     "formidable": "^1.0.17",
+    "fstream": "^1.0.7",
+    "fstream-ignore": "^1.0.2",
+    "inherits": "^2.0.1",
     "mkdirp": "^0.5.1",
-    "ncp": "^2.0.0",
     "request": "^2.57.0",
     "rimraf": "^2.4.0",
     "serve-static": "^1.9.3",
+    "tar": "^2.1.1",
     "tar.gz": "^0.1.1",
     "update-notifier": "^0.5.0"
   },
