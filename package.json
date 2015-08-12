@@ -16,7 +16,11 @@
   "keywords": [
     "ung"
   ],
-  "author": "Zoltan Kochan",
+  "author": {
+    "name": "Zoltan Kochan",
+    "email": "zoltan.kochan@gmail.com",
+    "url": "http://kochan.io"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/zkochan/ung/issues"
