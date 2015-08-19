@@ -32,6 +32,7 @@
     "commander": "^2.8.1",
     "connect": "^3.3.5",
     "cross-spawn": "^0.4.0",
+    "exec-cmds": "^0.2.0",
     "formidable": "^1.0.17",
     "fstream": "^1.0.7",
     "fstream-ignore": "^1.0.2",
