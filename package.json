@@ -1,6 +1,6 @@
 {
   "name": "ung",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A static resources manager.",
   "main": "./lib/cli",
   "scripts": {
