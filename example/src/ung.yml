@@ -1,0 +1,6 @@
+name: foo
+src: ./dist
+envs:
+  dev:
+    cmds:
+      - gulp build

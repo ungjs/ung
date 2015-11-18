@@ -1,0 +1,16 @@
+{
+  "name": "ung-example-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fosify-js": "^0.6.1",
+    "foso": "^0.10.3",
+    "gulp": "^3.9.0"
+  }
+}
