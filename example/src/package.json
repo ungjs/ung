@@ -6,6 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "ungConfig": {
+    "src": "./dist",
+    "bundle": [
+      "rm -rf dist",
+      "gulp build"
+    ]
+  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
