@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zkochan/ung.git"
+    "url": "https://github.com/ungjs/ung.git"
   },
   "keywords": [
     "ung"
@@ -23,9 +23,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zkochan/ung/issues"
+    "url": "https://github.com/ungjs/ung/issues"
   },
-  "homepage": "https://github.com/zkochan/ung",
+  "homepage": "https://github.com/ungjs/ung",
   "dependencies": {
     "async": "^1.2.1",
     "chalk": "^1.0.0",
