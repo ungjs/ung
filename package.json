@@ -30,7 +30,7 @@
     "async": "^1.2.1",
     "chalk": "^1.0.0",
     "commander": "^2.8.1",
-    "dir-packer": "^0.1.0",
+    "dir-packer": "^0.1.1",
     "exec-cmds": "^0.2.0",
     "mkdirp": "^0.5.1",
     "read-pkg-up": "^1.0.1",
