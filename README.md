@@ -1,5 +1,7 @@
 # ung
 
+**Deprecated! Use [foso-cdn](https://github.com/fosojs/cdn) instead**
+
 A static resources manager.
 
 [![Dependency Status](https://david-dm.org/ungjs/ung/status.svg?style=flat)](https://david-dm.org/ungjs/ung)
