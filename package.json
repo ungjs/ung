@@ -4,7 +4,6 @@
   "description": "A static resources manager.",
   "main": "./lib/cli",
   "scripts": {
-    "test": "mocha test/**/*.js"
   },
   "bin": {
     "ung": "./lib/cli.js"
